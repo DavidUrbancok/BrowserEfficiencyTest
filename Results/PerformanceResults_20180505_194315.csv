@@ -1,0 +1,3 @@
+EtlFileName,Scenario,Iteration,Browser,DateStamp,TimeStamp,MeasureSet,Measure,Result
+chrome_softwarequality_0_cpuUsage_20180505_194056,softwarequality,0,chrome,20180505,194056,cpuUsage,CPU Total Utilization %,69.934
+opera_softwarequality_0_cpuUsage_20180505_194004,softwarequality,0,opera,20180505,194004,cpuUsage,CPU Total Utilization %,76.788
